@@ -1,0 +1,5 @@
+Metadata-Version: 2.4
+Name: notesh
+Version: 0.0.1
+Summary: CLI note-taking tool
+Requires-Python: >=3.9

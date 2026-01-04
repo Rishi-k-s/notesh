@@ -1,0 +1,9 @@
+[project]
+name = "notesh"
+version = "0.0.1"
+description = "CLI note-taking tool"
+requires-python = ">=3.9"
+
+[project.scripts]
+notesh = "notesh.cli:app"
+

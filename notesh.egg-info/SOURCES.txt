@@ -1,0 +1,13 @@
+README.md
+pyproject.toml
+notesh/__init__.py
+notesh/cli.py
+notesh/config.py
+notesh/models.py
+notesh/storage.py
+notesh/test.py
+notesh.egg-info/PKG-INFO
+notesh.egg-info/SOURCES.txt
+notesh.egg-info/dependency_links.txt
+notesh.egg-info/entry_points.txt
+notesh.egg-info/top_level.txt
