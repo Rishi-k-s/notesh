@@ -1,1 +1,2 @@
-notesh/test.py
+# Notesh 
+A simple `CLI` note taking application 
